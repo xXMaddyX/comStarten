@@ -7,6 +7,12 @@ import { RouterView } from 'vue-router'
   <RouterView />
 </template>
 
-<style lang="scss" scoped>
+<style lang="scss">
+* {
+  font-family: Montserrat;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
 
 </style>
